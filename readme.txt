@@ -1,3 +1,10 @@
+=== Actualizado al Español por Julio Serra, Enero 2016 ===
+Contribución de forma libre: Julio Serra
+Tags: widget, login, registration, theme, custom, log in, register, sidebar, gravatar, redirection, e-mail
+Requires at least: 3.7
+Testeado en Wordpress: 4.4.1
+Stable tag: 6.3.11
+
 === Theme My Login ===
 Contributors: jfarthing84
 Tags: widget, login, registration, theme, custom, log in, register, sidebar, gravatar, redirection, e-mail
